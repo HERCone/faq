@@ -1,5 +1,5 @@
 # faq
-What is Hercules (HERC)?
+**What is Hercules (HERC)?**
 
 Hercules blockchain software tracks physical inventory in a supply chain with a digital source to store and review auditing information. The HERC software access token is designed to erase ongoing problems in centralized supply chain management such as:
 
@@ -12,7 +12,7 @@ Lack of collaboration among different entities.
 Limited access to data about the state of entire supply chain networks.
 
 
-Why Use Blockchain in Supply Chain Management?
+**Why Use Blockchain in Supply Chain Management?**
 
 Blockchains create a permanent and shared record of every transaction associated with an asset to create an unbroken chain of trust. Each record is time-stamped and appended to the event before it. Using Blockchain has the potential to improve tasks such as:
 
@@ -23,7 +23,7 @@ Linking physical goods to serial numbers, barcodes, digital tags like RFID, etc.
 Sharing information about manufacturing process, assembly, delivery, and maintenance of products with suppliers and vendors.
 
 
-How HERC Works
+**How HERC Works**
 
 Users can easily insert data modules containing information e.g. photos, scientific data, audit reports, legal opinions, or custom data which is stored on the blockchain. All entities can access this data for independent verification. With Hercules, you can enjoy supply chain management at its best.
 
@@ -36,6 +36,6 @@ Identification of issues faster to eliminate fraud and errors.
 Increased consumer and partner trust.
 
 
-How to Buy HERC
+**How to Buy HERC**
 
 HERC Tokens are not currently for sale. Please sign up for our newsletter to receive updates from our HERC team and you will be notified when you can purchase HERC.
